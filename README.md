@@ -1,2 +1,2 @@
 # autoencoders
-some exploration into autoencoders, cvae's and bvae's
+Autoencoder are a cool simple mechanism
